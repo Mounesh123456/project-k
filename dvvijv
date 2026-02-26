@@ -1,0 +1,30 @@
+[33mcommit 088c5a060959e2ec6d7f791d76312484be3e512b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31msumanth/newbranch1[m[33m, [m[1;31msumanth/master[m[33m, [m[1;32mnewbranch1[m[33m)[m
+Merge: 8cfdd5f 5ef2c07
+Author: mounesh <molakalamounesh@gmail.com>
+Date:   Wed Feb 25 15:34:44 2026 +0530
+
+    Merge branch 'feature5'
+
+[33mcommit 8cfdd5fb8629e76de60021d9ac6b017944637ce4[m
+Author: mounesh <molakalamounesh@gmail.com>
+Date:   Wed Feb 25 15:34:23 2026 +0530
+
+    master file commit
+
+[33mcommit 5ef2c07ebcf3a40faa7131108e105f9908d38339[m[33m ([m[1;32mfeature5[m[33m)[m
+Author: mounesh <molakalamounesh@gmail.com>
+Date:   Wed Feb 25 15:32:08 2026 +0530
+
+    f3 has commited
+
+[33mcommit 67096536e744427cebcec23ec15ebefaa68b6950[m[33m ([m[1;31msumanth/feature2[m[33m, [m[1;31msumanth/feature1[m[33m, [m[1;32mnew-feature[m[33m, [m[1;32mfeature1[m[33m)[m
+Author: mounesh <molakalamounesh@gmail.com>
+Date:   Tue Feb 24 19:47:56 2026 +0530
+
+    2 files commited
+
+[33mcommit 658f8ee06ffa0ed8e0ec7bbf9c8be4d23ee6f3f6[m
+Author: mounesh <molakalamounesh@gmail.com>
+Date:   Tue Feb 24 19:30:07 2026 +0530
+
+    3 files commited
